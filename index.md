@@ -5,3 +5,9 @@
 ```js
 const header = document.getElementById('header')
 ```
+
+## Task List
+
+- [ ] Study JavaScript
+- [ ] Go to the gym
+- [ ] Create a Saas
